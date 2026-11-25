@@ -1,6 +1,6 @@
 # Colby's site stack
 
-A one-page library of the websites I've built: tools for macroeconomics, personal investing, recreation and my college classes.
+A one-page library of the websites I've built: tools for macroeconomics, personal investing, recreation, spirituality and my college classes.
 
 Everything is in `index.html`, with photos in `images/`. Photo sources are listed in [CREDITS.md](CREDITS.md).
 

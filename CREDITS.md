@@ -1,6 +1,6 @@
 # Photo credits
 
-All photos are public domain or CC0, from Wikimedia Commons.
+All photos are public domain or CC0, from Wikimedia Commons, except the Spirituality tile, which is my own photo.
 
 | Tile | Photo | Source |
 |---|---|---|
@@ -16,3 +16,4 @@ All photos are public domain or CC0, from Wikimedia Commons.
 | Oral Midterm Quiz Bot | Student studying, New Ulm, Minnesota | Abul Haque, National Archives (Documerica), public domain — https://commons.wikimedia.org/w/index.php?search=STUDENTS+STUDYING+AT+CATHEDRAL+SENIOR+HIGH+SCHOOL+IN+NEW+ULM |
 | Oral Final Quiz Bot | Students studying in the Sias library | Gary Todd, CC0 — https://commons.wikimedia.org/wiki/File:Sias_Library_-_Students_Studying_2017.jpg |
 | Intro to Corp. Fin. | HP-12C financial calculator | Pittigrilli, CC0 — https://commons.wikimedia.org/wiki/File:Financial_Calculator_Hewlett-Packard_HP-12C_built_from_1981,_this_item_was_produced_in_1988.jpg |
+| Awesome Books About God and Jesus | Sunset clouds over a lake in Montana | My own photo |
